@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">recycler</string>
+
+    <string-array name="name_of_word">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+    </string-array>
+
+    <string-array name="definition_of_word">
+        <item>skjhd jskhd kjhd</item>
+        <item>lakdshfad ajhsdjsa 2564</item>
+        <item>6542 dkjhd kjiydb</item>
+        <item>24168 dkjhd kjhd</item>
+        <item>kjbhduygd kjhds kjhs</item>
+        <item>sjhd kjhd ijd</item>
+        <item>45542158154215</item>
+    </string-array>
+
+
+    <string-array name="example_of_word">
+        <item>skjhd jskhd kjhd skjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhd</item>
+        <item>lakdshfad ajhsdjsa 2564 skjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhd</item>
+        <item>6542 dkjhd kjiydb skjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhd</item>
+        <item>24168 dkjhd kjhd skjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhd</item>
+        <item>kjbhduygd kjhds kjhs skjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhd</item>
+        <item>sjhd kjhd ijd skjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhd</item>
+        <item>45542158154215 skjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhdskjhd jskhd kjhd</item>
+    </string-array>
+
+
+
+</resources>
